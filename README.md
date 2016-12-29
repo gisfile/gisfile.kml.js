@@ -47,5 +47,5 @@ Examples
 </pre>
 </div>
 
-<p>The <code>jszip.min.js</code> file does not includes the Leaflet and jsZip library. 
+<p>The <code>gisfile.kml.js</code> file does not includes the Leaflet and jsZip library. 
 You will have to include the Leaflet and jsZip yourself.</p>
