@@ -49,3 +49,19 @@ Examples
 
 <p>The <code>gisfile.kml.js</code> file does not includes the Leaflet and jsZip library. 
 You will have to include the Leaflet and jsZip yourself.</p>
+
+<h2>
+<a id="user-content-references" class="anchor" href="#references" aria-hidden="true">
+<span class="octicon octicon-link"></span></a>
+<a href="http://gisfile.com/api/1.0/doc/box/">References</a>
+</h2>
+
+<p>
+<a href="http://gisfile.com/api/1.0/doc/">Description</a><br>
+<a href="http://gisfile.com/api/1.0/doc/quick-start/">First Start</a><br>
+<a href="http://gisfile.com/api/1.0/doc/general/">General Information</a><br>
+<a href="http://gisfile.com/api/1.0/doc/jsapi/">Connecting API</a><br>
+<a href="http://gisfile.com/api/1.0/doc/jsonp/">Dynamic JSONP Layer</a><br>
+<a href="http://gisfile.com/api/1.0/doc/box/">Box Layer</a><br>
+<a href="http://gisfile.com/designer.htm">Map Designer</a>
+</p>
